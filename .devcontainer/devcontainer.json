@@ -5,7 +5,6 @@
     "dockerfile": "../Dockerfile",
     "target": "dev"
   },
-  "postCreateCommand": "pre-commit install --overwrite --install-hooks",
   "workspaceMount": "source=${localWorkspaceFolder},target=/app,type=bind,consistency=cached",
   "workspaceFolder": "/app",
   "hostRequirements": {
