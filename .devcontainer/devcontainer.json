@@ -9,7 +9,7 @@
   "workspaceFolder": "/app",
   "hostRequirements": {
     "cpus": 2,
-    "memory": "16gb"
+    "memory": "8gb"
   },
   "features": {
     "ghcr.io/devcontainers/features/sshd:1": {
