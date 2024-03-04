@@ -8,7 +8,7 @@
   "workspaceMount": "source=${localWorkspaceFolder},target=/app,type=bind,consistency=cached",
   "workspaceFolder": "/app",
   "hostRequirements": {
-    "cpus": 4,
+    "cpus": 2,
     "memory": "16gb"
   },
   "features": {
